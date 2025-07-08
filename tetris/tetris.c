@@ -1,4 +1,8 @@
 /*
+ * MicroGames
+ * 
+ * Started coding on Tue Jul 8 03:46:32 PM CEST 2025
+ * 
  * Copyright 2025 Tiuna Pierangelo Angelini <tiuna.angelini@gmail.com>
  * 
  * Permission is hereby granted, free of charge, to any person obtaining
@@ -20,7 +24,6 @@
  * OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
  * WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  * 
- * Started coding on Tue Jul 8 03:46:32 PM CEST 2025
  */
 
 #include <stdint.h>
