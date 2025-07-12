@@ -1,5 +1,4 @@
 #!/bin/sh
 
 set -e
-gcc tetris.c -o tetris -lSDL2
-./tetris
+clang tetris.c -o tetris -lSDL2 -lm -Wall -Wextra
